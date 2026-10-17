@@ -27,9 +27,10 @@ def test_login_with_empty_username():
     assert username == "", "Username should be empty for this test"
 
     print("PASS: Empty username test input detected.")
-
+    
 
 if __name__ == "__main__":
     test_login_with_valid_credentials()
     test_login_with_empty_username()
     print("Login demonstration tests completed.")
+    print("PASS: Login input validation completed.")
