@@ -41,3 +41,7 @@ These scripts are standalone demonstrations. They do not
 connect to a live AttendX application, database, or API.
 Real application automation requires the application's
 URL or API, test environment, and approved test credentials.
+
+
+Updated directly on GitHub to demonstrate collaboration and pull operations.
+
